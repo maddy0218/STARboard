@@ -1,6 +1,8 @@
 
 # Welcome to STARboard
 
+## We are proud to share that our website won 1st place in a class-wide competition for the best TA management website, out of ~60 teams!
+
 <img src="https://user-images.githubusercontent.com/90351737/164506520-169c520d-a8f7-49cf-8e16-8f70620bf126.png" alt="drawing" width="200"/>
 
 McGill's **S**.O.C.S **TA** **R**ecord board
